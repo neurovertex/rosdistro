@@ -1,0 +1,678 @@
+actionlib:
+  arch:
+    yaourt: [ros-indigo-actionlib]
+actionlib_msgs:
+  arch:
+    yaourt: [ros-indigo-actionlib-msgs]
+actionlib_tutorials:
+  arch:
+    yaourt: [ros-indigo-actionlib-tutorials]
+angles:
+  arch:
+    yaourt: [ros-indigo-angles]
+bond:
+  arch:
+    yaourt: [ros-indigo-bond]
+bond_core:
+  arch:
+    yaourt: [ros-indigo-bond-core]
+bondcpp:
+  arch:
+    yaourt: [ros-indigo-bondcpp]
+bondpy:
+  arch:
+    yaourt: [ros-indigo-bondpy]
+camera_calibration:
+  arch:
+    yaourt: [ros-indigo-camera-calibration]
+camera_calibration_parsers:
+  arch:
+    yaourt: [ros-indigo-camera-calibration-parsers]
+camera_info_manager:
+  arch:
+    yaourt: [ros-indigo-camera-info-manager]
+/opt/ros/indigo/share/catkin/cmake/catkin_package_xml.cmake:
+  arch:
+    yaourt: [ros-indigo-catkin]
+/opt/ros/indigo/share/catkin/cmake/parse_package_xml.py:
+  arch:
+    yaourt: [ros-indigo-catkin]
+catkin:
+  arch:
+    yaourt: [ros-indigo-catkin]
+class_loader:
+  arch:
+    yaourt: [ros-indigo-class-loader]
+cmake_modules:
+  arch:
+    yaourt: [ros-indigo-cmake-modules]
+collada_parser:
+  arch:
+    yaourt: [ros-indigo-collada-parser]
+collada_urdf:
+  arch:
+    yaourt: [ros-indigo-collada-urdf]
+common_msgs:
+  arch:
+    yaourt: [ros-indigo-common-msgs]
+common_tutorials:
+  arch:
+    yaourt: [ros-indigo-common-tutorials]
+compressed_depth_image_transport:
+  arch:
+    yaourt: [ros-indigo-compressed-depth-image-transport]
+compressed_image_transport:
+  arch:
+    yaourt: [ros-indigo-compressed-image-transport]
+control_msgs:
+  arch:
+    yaourt: [ros-indigo-control-msgs]
+cpp_common:
+  arch:
+    yaourt: [ros-indigo-cpp-common]
+cv_bridge:
+  arch:
+    yaourt: [ros-indigo-cv-bridge]
+depth_image_proc:
+  arch:
+    yaourt: [ros-indigo-depth-image-proc]
+desktop:
+  arch:
+    yaourt: [ros-indigo-desktop]
+desktop_full:
+  arch:
+    yaourt: [ros-indigo-desktop-full]
+diagnostic_aggregator:
+  arch:
+    yaourt: [ros-indigo-diagnostic-aggregator]
+diagnostic_analysis:
+  arch:
+    yaourt: [ros-indigo-diagnostic-analysis]
+diagnostic_common_diagnostics:
+  arch:
+    yaourt: [ros-indigo-diagnostic-common-diagnostics]
+diagnostic_msgs:
+  arch:
+    yaourt: [ros-indigo-diagnostic-msgs]
+diagnostic_updater:
+  arch:
+    yaourt: [ros-indigo-diagnostic-updater]
+diagnostics:
+  arch:
+    yaourt: [ros-indigo-diagnostics]
+driver_base:
+  arch:
+    yaourt: [ros-indigo-driver-base]
+dynamic_reconfigure:
+  arch:
+    yaourt: [ros-indigo-dynamic-reconfigure]
+eigen_conversions:
+  arch:
+    yaourt: [ros-indigo-eigen-conversions]
+eigen_stl_containers:
+  arch:
+    yaourt: [ros-indigo-eigen-stl-containers]
+executive_smach:
+  arch:
+    yaourt: [ros-indigo-executive-smach]
+filters:
+  arch:
+    yaourt: [ros-indigo-filters]
+gazebo_msgs:
+  arch:
+    yaourt: [ros-indigo-gazebo-msgs]
+gazebo_plugins:
+  arch:
+    yaourt: [ros-indigo-gazebo-plugins]
+gazebo_ros:
+  arch:
+    yaourt: [ros-indigo-gazebo-ros]
+gazebo_ros_pkgs:
+  arch:
+    yaourt: [ros-indigo-gazebo-ros-pkgs]
+gencpp:
+  arch:
+    yaourt: [ros-indigo-gencpp]
+genlisp:
+  arch:
+    yaourt: [ros-indigo-genlisp]
+genmsg:
+  arch:
+    yaourt: [ros-indigo-genmsg]
+genpy:
+  arch:
+    yaourt: [ros-indigo-genpy]
+geometric_shapes:
+  arch:
+    yaourt: [ros-indigo-geometric-shapes]
+geometry:
+  arch:
+    yaourt: [ros-indigo-geometry]
+geometry_msgs:
+  arch:
+    yaourt: [ros-indigo-geometry-msgs]
+geometry_tutorials:
+  arch:
+    yaourt: [ros-indigo-geometry-tutorials]
+image_common:
+  arch:
+    yaourt: [ros-indigo-image-common]
+image_geometry:
+  arch:
+    yaourt: [ros-indigo-image-geometry]
+image_pipeline:
+  arch:
+    yaourt: [ros-indigo-image-pipeline]
+image_proc:
+  arch:
+    yaourt: [ros-indigo-image-proc]
+image_rotate:
+  arch:
+    yaourt: [ros-indigo-image-rotate]
+image_transport:
+  arch:
+    yaourt: [ros-indigo-image-transport]
+image_transport_plugins:
+  arch:
+    yaourt: [ros-indigo-image-transport-plugins]
+image_view:
+  arch:
+    yaourt: [ros-indigo-image-view]
+interactive_marker_tutorials:
+  arch:
+    yaourt: [ros-indigo-interactive-marker-tutorials]
+interactive_markers:
+  arch:
+    yaourt: [ros-indigo-interactive-markers]
+joint_state_publisher:
+  arch:
+    yaourt: [ros-indigo-joint-state-publisher]
+kdl_conversions:
+  arch:
+    yaourt: [ros-indigo-kdl-conversions]
+kdl_parser:
+  arch:
+    yaourt: [ros-indigo-kdl-parser]
+laser_assembler:
+  arch:
+    yaourt: [ros-indigo-laser-assembler]
+laser_filters:
+  arch:
+    yaourt: [ros-indigo-laser-filters]
+laser_geometry:
+  arch:
+    yaourt: [ros-indigo-laser-geometry]
+laser_pipeline:
+  arch:
+    yaourt: [ros-indigo-laser-pipeline]
+libg2o:
+  arch:
+    yaourt: [ros-indigo-libg2o]
+librviz_tutorial:
+  arch:
+    yaourt: [ros-indigo-librviz-tutorial]
+map_msgs:
+  arch:
+    yaourt: [ros-indigo-map-msgs]
+media_export:
+  arch:
+    yaourt: [ros-indigo-media-export]
+message_filters:
+  arch:
+    yaourt: [ros-indigo-message-filters]
+message_generation:
+  arch:
+    yaourt: [ros-indigo-message-generation]
+message_runtime:
+  arch:
+    yaourt: [ros-indigo-message-runtime]
+mk:
+  arch:
+    yaourt: [ros-indigo-mk]
+nav_msgs:
+  arch:
+    yaourt: [ros-indigo-nav-msgs]
+nodelet:
+  arch:
+    yaourt: [ros-indigo-nodelet]
+nodelet_core:
+  arch:
+    yaourt: [ros-indigo-nodelet-core]
+nodelet_topic_tools:
+  arch:
+    yaourt: [ros-indigo-nodelet-topic-tools]
+nodelet_tutorial_math:
+  arch:
+    yaourt: [ros-indigo-nodelet-tutorial-math]
+octomap:
+  arch:
+    yaourt: [ros-indigo-octomap]
+orocos_kdl:
+  arch:
+    yaourt: [ros-indigo-orocos-kdl]
+pcl_conversions:
+  arch:
+    yaourt: [ros-indigo-pcl-conversions]
+pcl_msgs:
+  arch:
+    yaourt: [ros-indigo-pcl-msgs]
+pcl_ros:
+  arch:
+    yaourt: [ros-indigo-pcl-ros]
+perception:
+  arch:
+    yaourt: [ros-indigo-perception]
+perception_pcl:
+  arch:
+    yaourt: [ros-indigo-perception-pcl]
+pluginlib:
+  arch:
+    yaourt: [ros-indigo-pluginlib]
+pluginlib_tutorials:
+  arch:
+    yaourt: [ros-indigo-pluginlib-tutorials]
+pointcloud_to_laserscan:
+  arch:
+    yaourt: [ros-indigo-pointcloud-to-laserscan]
+polled_camera:
+  arch:
+    yaourt: [ros-indigo-polled-camera]
+python_orocos_kdl:
+  arch:
+    yaourt: [ros-indigo-python-orocos-kdl]
+python_qt_binding:
+  arch:
+    yaourt: [ros-indigo-python-qt-binding]
+qt_dotgraph:
+  arch:
+    yaourt: [ros-indigo-qt-dotgraph]
+qt_gui:
+  arch:
+    yaourt: [ros-indigo-qt-gui]
+qt_gui_cpp:
+  arch:
+    yaourt: [ros-indigo-qt-gui-cpp]
+qt_gui_py_common:
+  arch:
+    yaourt: [ros-indigo-qt-gui-py-common]
+random_numbers:
+  arch:
+    yaourt: [ros-indigo-random-numbers]
+resource_retriever:
+  arch:
+    yaourt: [ros-indigo-resource-retriever]
+robot:
+  arch:
+    yaourt: [ros-indigo-robot]
+robot_model:
+  arch:
+    yaourt: [ros-indigo-robot-model]
+robot_state_publisher:
+  arch:
+    yaourt: [ros-indigo-robot-state-publisher]
+ros:
+  arch:
+    yaourt: [ros-indigo-ros]
+ros_base:
+  arch:
+    yaourt: [ros-indigo-ros-base]
+ros_comm:
+  arch:
+    yaourt: [ros-indigo-ros-comm]
+ros_core:
+  arch:
+    yaourt: [ros-indigo-ros-core]
+ros_tutorials:
+  arch:
+    yaourt: [ros-indigo-ros-tutorials]
+rosbag:
+  arch:
+    yaourt: [ros-indigo-rosbag]
+rosbag_migration_rule:
+  arch:
+    yaourt: [ros-indigo-rosbag-migration-rule]
+rosbag_storage:
+  arch:
+    yaourt: [ros-indigo-rosbag-storage]
+rosbash:
+  arch:
+    yaourt: [ros-indigo-rosbash]
+rosboost_cfg:
+  arch:
+    yaourt: [ros-indigo-rosboost-cfg]
+rosbuild:
+  arch:
+    yaourt: [ros-indigo-rosbuild]
+rosclean:
+  arch:
+    yaourt: [ros-indigo-rosclean]
+rosconsole:
+  arch:
+    yaourt: [ros-indigo-rosconsole]
+rosconsole_bridge:
+  arch:
+    yaourt: [ros-indigo-rosconsole-bridge]
+roscpp:
+  arch:
+    yaourt: [ros-indigo-roscpp]
+roscpp_core:
+  arch:
+    yaourt: [ros-indigo-roscpp-core]
+roscpp_serialization:
+  arch:
+    yaourt: [ros-indigo-roscpp-serialization]
+roscpp_traits:
+  arch:
+    yaourt: [ros-indigo-roscpp-traits]
+roscpp_tutorials:
+  arch:
+    yaourt: [ros-indigo-roscpp-tutorials]
+roscreate:
+  arch:
+    yaourt: [ros-indigo-roscreate]
+rosgraph:
+  arch:
+    yaourt: [ros-indigo-rosgraph]
+rosgraph_msgs:
+  arch:
+    yaourt: [ros-indigo-rosgraph-msgs]
+roslang:
+  arch:
+    yaourt: [ros-indigo-roslang]
+roslaunch:
+  arch:
+    yaourt: [ros-indigo-roslaunch]
+roslib:
+  arch:
+    yaourt: [ros-indigo-roslib]
+roslint:
+  arch:
+    yaourt: [ros-indigo-roslint]
+roslisp:
+  arch:
+    yaourt: [ros-indigo-roslisp]
+roslz4:
+  arch:
+    yaourt: [ros-indigo-roslz4]
+rosmake:
+  arch:
+    yaourt: [ros-indigo-rosmake]
+rosmaster:
+  arch:
+    yaourt: [ros-indigo-rosmaster]
+rosmsg:
+  arch:
+    yaourt: [ros-indigo-rosmsg]
+rosnode:
+  arch:
+    yaourt: [ros-indigo-rosnode]
+rosout:
+  arch:
+    yaourt: [ros-indigo-rosout]
+rospack:
+  arch:
+    yaourt: [ros-indigo-rospack]
+rosparam:
+  arch:
+    yaourt: [ros-indigo-rosparam]
+rospy:
+  arch:
+    yaourt: [ros-indigo-rospy]
+rospy_tutorials:
+  arch:
+    yaourt: [ros-indigo-rospy-tutorials]
+rosservice:
+  arch:
+    yaourt: [ros-indigo-rosservice]
+rostest:
+  arch:
+    yaourt: [ros-indigo-rostest]
+rostime:
+  arch:
+    yaourt: [ros-indigo-rostime]
+rostopic:
+  arch:
+    yaourt: [ros-indigo-rostopic]
+rosunit:
+  arch:
+    yaourt: [ros-indigo-rosunit]
+roswtf:
+  arch:
+    yaourt: [ros-indigo-roswtf]
+rqt:
+  arch:
+    yaourt: [ros-indigo-rqt]
+rqt_action:
+  arch:
+    yaourt: [ros-indigo-rqt-action]
+rqt_bag:
+  arch:
+    yaourt: [ros-indigo-rqt-bag]
+rqt_bag_plugins:
+  arch:
+    yaourt: [ros-indigo-rqt-bag-plugins]
+rqt_common_plugins:
+  arch:
+    yaourt: [ros-indigo-rqt-common-plugins]
+rqt_console:
+  arch:
+    yaourt: [ros-indigo-rqt-console]
+rqt_dep:
+  arch:
+    yaourt: [ros-indigo-rqt-dep]
+rqt_graph:
+  arch:
+    yaourt: [ros-indigo-rqt-graph]
+rqt_gui:
+  arch:
+    yaourt: [ros-indigo-rqt-gui]
+rqt_gui_cpp:
+  arch:
+    yaourt: [ros-indigo-rqt-gui-cpp]
+rqt_gui_py:
+  arch:
+    yaourt: [ros-indigo-rqt-gui-py]
+rqt_image_view:
+  arch:
+    yaourt: [ros-indigo-rqt-image-view]
+rqt_launch:
+  arch:
+    yaourt: [ros-indigo-rqt-launch]
+rqt_logger_level:
+  arch:
+    yaourt: [ros-indigo-rqt-logger-level]
+rqt_moveit:
+  arch:
+    yaourt: [ros-indigo-rqt-moveit]
+rqt_msg:
+  arch:
+    yaourt: [ros-indigo-rqt-msg]
+rqt_nav_view:
+  arch:
+    yaourt: [ros-indigo-rqt-nav-view]
+rqt_plot:
+  arch:
+    yaourt: [ros-indigo-rqt-plot]
+rqt_pose_view:
+  arch:
+    yaourt: [ros-indigo-rqt-pose-view]
+rqt_publisher:
+  arch:
+    yaourt: [ros-indigo-rqt-publisher]
+rqt_py_common:
+  arch:
+    yaourt: [ros-indigo-rqt-py-common]
+rqt_py_console:
+  arch:
+    yaourt: [ros-indigo-rqt-py-console]
+rqt_reconfigure:
+  arch:
+    yaourt: [ros-indigo-rqt-reconfigure]
+rqt_robot_dashboard:
+  arch:
+    yaourt: [ros-indigo-rqt-robot-dashboard]
+rqt_robot_monitor:
+  arch:
+    yaourt: [ros-indigo-rqt-robot-monitor]
+rqt_robot_plugins:
+  arch:
+    yaourt: [ros-indigo-rqt-robot-plugins]
+rqt_robot_steering:
+  arch:
+    yaourt: [ros-indigo-rqt-robot-steering]
+rqt_runtime_monitor:
+  arch:
+    yaourt: [ros-indigo-rqt-runtime-monitor]
+rqt_rviz:
+  arch:
+    yaourt: [ros-indigo-rqt-rviz]
+rqt_service_caller:
+  arch:
+    yaourt: [ros-indigo-rqt-service-caller]
+rqt_shell:
+  arch:
+    yaourt: [ros-indigo-rqt-shell]
+rqt_srv:
+  arch:
+    yaourt: [ros-indigo-rqt-srv]
+rqt_tf_tree:
+  arch:
+    yaourt: [ros-indigo-rqt-tf-tree]
+rqt_top:
+  arch:
+    yaourt: [ros-indigo-rqt-top]
+rqt_topic:
+  arch:
+    yaourt: [ros-indigo-rqt-topic]
+rqt_web:
+  arch:
+    yaourt: [ros-indigo-rqt-web]
+rviz:
+  arch:
+    yaourt: [ros-indigo-rviz]
+rviz_plugin_tutorials:
+  arch:
+    yaourt: [ros-indigo-rviz-plugin-tutorials]
+rviz_python_tutorial:
+  arch:
+    yaourt: [ros-indigo-rviz-python-tutorial]
+self_test:
+  arch:
+    yaourt: [ros-indigo-self-test]
+sensor_msgs:
+  arch:
+    yaourt: [ros-indigo-sensor-msgs]
+shape_msgs:
+  arch:
+    yaourt: [ros-indigo-shape-msgs]
+shape_tools:
+  arch:
+    yaourt: [ros-indigo-shape-tools]
+simulators:
+  arch:
+    yaourt: [ros-indigo-simulators]
+smach:
+  arch:
+    yaourt: [ros-indigo-smach]
+smach_msgs:
+  arch:
+    yaourt: [ros-indigo-smach-msgs]
+smach_ros:
+  arch:
+    yaourt: [ros-indigo-smach-ros]
+smclib:
+  arch:
+    yaourt: [ros-indigo-smclib]
+stage:
+  arch:
+    yaourt: [ros-indigo-stage]
+stage_ros:
+  arch:
+    yaourt: [ros-indigo-stage-ros]
+std_msgs:
+  arch:
+    yaourt: [ros-indigo-std-msgs]
+std_srvs:
+  arch:
+    yaourt: [ros-indigo-std-srvs]
+stereo_image_proc:
+  arch:
+    yaourt: [ros-indigo-stereo-image-proc]
+stereo_msgs:
+  arch:
+    yaourt: [ros-indigo-stereo-msgs]
+tf:
+  arch:
+    yaourt: [ros-indigo-tf]
+tf_conversions:
+  arch:
+    yaourt: [ros-indigo-tf-conversions]
+tf2:
+  arch:
+    yaourt: [ros-indigo-tf2]
+tf2_geometry_msgs:
+  arch:
+    yaourt: [ros-indigo-tf2-geometry-msgs]
+tf2_msgs:
+  arch:
+    yaourt: [ros-indigo-tf2-msgs]
+tf2_py:
+  arch:
+    yaourt: [ros-indigo-tf2-py]
+tf2_ros:
+  arch:
+    yaourt: [ros-indigo-tf2-ros]
+tf2_sensor_msgs:
+  arch:
+    yaourt: [ros-indigo-tf2-sensor-msgs]
+theora_image_transport:
+  arch:
+    yaourt: [ros-indigo-theora-image-transport]
+topic_tools:
+  arch:
+    yaourt: [ros-indigo-topic-tools]
+trajectory_msgs:
+  arch:
+    yaourt: [ros-indigo-trajectory-msgs]
+turtle_actionlib:
+  arch:
+    yaourt: [ros-indigo-turtle-actionlib]
+turtle_tf:
+  arch:
+    yaourt: [ros-indigo-turtle-tf]
+turtle_tf2:
+  arch:
+    yaourt: [ros-indigo-turtle-tf2]
+turtlesim:
+  arch:
+    yaourt: [ros-indigo-turtlesim]
+urdf:
+  arch:
+    yaourt: [ros-indigo-urdf]
+urdf_parser_plugin:
+  arch:
+    yaourt: [ros-indigo-urdf-parser-plugin]
+urdf_tutorial:
+  arch:
+    yaourt: [ros-indigo-urdf-tutorial]
+vision_opencv:
+  arch:
+    yaourt: [ros-indigo-vision-opencv]
+visualization_marker_tutorials:
+  arch:
+    yaourt: [ros-indigo-visualization-marker-tutorials]
+visualization_msgs:
+  arch:
+    yaourt: [ros-indigo-visualization-msgs]
+visualization_tutorials:
+  arch:
+    yaourt: [ros-indigo-visualization-tutorials]
+viz:
+  arch:
+    yaourt: [ros-indigo-viz]
+xacro:
+  arch:
+    yaourt: [ros-indigo-xacro]
+xmlrpcpp:
+  arch:
+    yaourt: [ros-indigo-xmlrpcpp]
